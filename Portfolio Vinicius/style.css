@@ -77,11 +77,6 @@ nav{
     transition: .4s;
 }
 
-.box-btn-actions{
-    display: flex;
-    gap: 1rem;
-}
-
 :is(button,.link-action){
     padding: .6rem;
     font-size: .9rem;
